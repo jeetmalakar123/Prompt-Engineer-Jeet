@@ -45,3 +45,22 @@ A modern business news platform designed for smart professionals. It includes da
 ---
 
 > 🏁 This site proves how powerful no-code tools can be to ship real projects — fast and free.
+
+# 🌐 Task 2 – No-Code Website: Businews
+
+## 🔗 Website Link
+[Visit Businews Website](https://your-notion-link-here)
+
+## 🖼️ Screenshots
+
+### 1. Home Page  
+![Home Page](https://raw.githubusercontent.com/jeetmalakar123/Prompt-Engineer-Jeet/main/task_2_no-code-website/homepage.jpg)
+
+### 2. Top Business News  
+![Business News](https://raw.githubusercontent.com/jeetmalakar123/Prompt-Engineer-Jeet/main/task_2_no-code-website/news.jpg)
+
+### 3. Startup Spotlight  
+![Startup](https://raw.githubusercontent.com/jeetmalakar123/Prompt-Engineer-Jeet/main/task_2_no-code-website/startup.jpg)
+
+### 4. AI Business Tools  
+![AI Tools](https://raw.githubusercontent.com/jeetmalakar123/Prompt-Engineer-Jeet/main/task_2_no-code-website/tools.jpg)
