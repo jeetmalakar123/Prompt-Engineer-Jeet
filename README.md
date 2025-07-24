@@ -12,7 +12,7 @@ This repository contains all my internship submissions for **Future Interns**, w
 ### 🎯 Task 1: AI Tool Explainer Video  
 - 📜 Script: Available in `Script.txt`  
 - 🖼️ Thumbnail: Included  
-- 🎥 Video: [Watch here](https://drive.google.com/YOUR-VIDEO-LINK-HERE)
+- 🎥 Video: [Watch here](https://drive.google.com/file/d/1DZeBdt5oIJRurVfUCo-0JYhquqzfityH/view?usp=drivesdk)
 
 ---
 
